@@ -1,0 +1,12 @@
+# cmsp-images
+images list：
+* ikudusync
+* ikudu
+* impala
+* mysql-57-centos7
+* mysqlinitdb
+* osln
+* osmeta
+* os
+* simulator
+* videosync
